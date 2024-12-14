@@ -1,5 +1,12 @@
-**FreshTrack**  
-FreshTrack is a real-time temperature and humidity monitoring system designed for cold chain logistics and storage management.  
+# FreshTrack
+
+FreshTrack is a real-time temperature and humidity monitoring system for cold chain logistics.
+
+## Watch the Demo Video
+
+[![Watch the Demo Video](https://via.placeholder.com/800x400?text=Click+to+Play+Demo+Video)](assets/video.webm)
+
+> Click the image to view or download the video.
 
 ### **Key Components**  
 
