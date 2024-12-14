@@ -4,7 +4,7 @@ FreshTrack is a real-time temperature and humidity monitoring system for cold ch
 
 ## Watch the Demo Video
 
-[![Watch the Demo Video](https://via.placeholder.com/800x400?text=Click+to+Play+Demo+Video)](assets/video.webm)
+[![Watch the Demo Video](https://via.placeholder.com/800x400?text=Click+to+Play+Demo+Video)](assets/video.gif)
 
 > Click the image to view or download the video.
 
